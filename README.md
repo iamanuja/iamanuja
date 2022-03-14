@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @iamanuja
-- 🌱 I’m currently learning Data Science
+
 
 
 <!---
