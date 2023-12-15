@@ -20,9 +20,9 @@ I'm passionate about data science and learning something new every day. Welcome 
 ## Projects
 
 Here are some of the projects I have completed:
-- [Project 1: Machine Learning Model for Predicting Employee Churn](https://github.com/iamanuja/projectchurn)
-  - Description: This project focuses on building a machine learning model to predict employee churn within a company. It includes data preprocessing, feature engineering, model training, and evaluation.
-  - Repository Link: [GitHub Repo](https://github.com/iamanuja/projectchurn)
+- [Project 1: Predictive model to determine customer subscription to term deposit policy](https://github.com/iamanuja/Bank-Telemarketing-Success)
+  - Description: This project focuses on building a machine learning model to predict whether particular customer subscribed to bank term deposit policy or not . It includes data preprocessing, feature engineering, model training, and evaluation.
+  - Repository Link: [GitHub Repo](https://github.com/iamanuja/Bank-Telemarketing-Success)
 Feel free to explore these projects to see my data science journey in action.
 
 ## Connect with Me
